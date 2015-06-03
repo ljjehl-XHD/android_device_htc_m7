@@ -12,13 +12,13 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "th",
+    "remote": "ljjehl",
     "repository": "proprietary_vendor_htc",
     "target_path": "vendor/htc",
     "revision": "lp-mr1"
   },
   {
-    "remote": "cm",
+    "remote": "ljjehl",
     "repository": "android_kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960",
     "revision": "cm-12.1"
