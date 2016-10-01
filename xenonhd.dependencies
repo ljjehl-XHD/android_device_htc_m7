@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_htc_m7-common",
+    "target_path": "device/htc/m7-common",
+    "revision": "cm-14.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_htc_msm8960-common",
+    "target_path": "device/htc/msm8960-common",
+    "revision": "cm-14.0"
+  },
+  {
+    "remote": "th",
+    "repository": "proprietary_vendor_htc",
+    "target_path": "vendor/htc",
+    "revision": "mm"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_kernel_htc_msm8960",
+    "target_path": "kernel/htc/msm8960",
+    "revision": "cm-14.0"
+  }
+]
