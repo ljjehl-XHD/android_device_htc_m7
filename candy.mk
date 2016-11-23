@@ -1,7 +1,5 @@
 $(call inherit-product, vendor/candy/config/common_full_phone.mk)
 
-$(call inherit-product, vendor/candy/config/nfc_enhanced.mk)
-
 $(call inherit-product, device/htc/m7/full_m7.mk)
 
 # Device naming
