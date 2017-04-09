@@ -2,6 +2,6 @@
     {
         "repository": "CandyDevices/device_htc_m7-common",
         "target_path": "device/htc/m7-common",
-        "branch": "c6"
+        "branch": "c7.1.2"
     }
 ]
