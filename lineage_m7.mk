@@ -1,9 +1,9 @@
-$(call inherit-product, vendor/candy/config/common_full_phone.mk)
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 $(call inherit-product, device/htc/m7/full_m7.mk)
 
 # Device naming
-PRODUCT_NAME := candy_m7
+PRODUCT_NAME := lineage_m7
 
 # Override build props
 PRODUCT_BUILD_PROP_OVERRIDES += \
